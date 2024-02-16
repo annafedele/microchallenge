@@ -5,32 +5,32 @@ this project was developed with annna
 
 ## Areas of interests:
 
+In our discussions, we found some areas of common interest such as an interest in sensors and a digital alter ego that could represent feedback from surroundings
 ![Screenshot 2024-02-16 012247](https://github.com/annafedele/microchallenge/assets/147055673/076530db-5d08-4d14-9ed0-afd52bb2289e)
 ## Research
-
+By intersecting our research, we found a common point in looking for wearables that collect data in certain social contexts, from events to everyday life, also related to the concept of protection. Certain types of sensors can detect changes in our surroundings that affect our bodies and our attitude under the circumstances.
 https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed
 ### Statement:
-
-Ways to detect the surroundings. 
-
+Series of investigation on electronic wearables that detect the surroundings and the interations with them, and that translate it in a digital visualization 
 
 # Artifact Description:
+<img width="428" alt="Captura" src="https://github.com/annafedele/microchallenge/assets/143884501/f04be928-5f72-41e8-8df1-375081164b7e">
+
 
 ## Project planning
+<img width="632" alt="Captura1" src="https://github.com/annafedele/microchallenge/assets/143884501/692cab39-8074-425d-96f3-e5d29e28097c">
+
 ## Sketches
 
 
 ## Materials and technologies needed
-## Sensors:
-- **Touch Sensor:**
-We want to investigate about conductive textile 
 
+- **Touch Sensor, conductive textile**
+- https://youtu.be/-ldPPhnGDVE
+- **360 camera**
+- **Conductive Biomaterial**
+- **Proximity sensor**
 
-
-
-## 360 camera
-
-detect our sorrounding
 
 https://www.tiktok.com/@espn/video/7153418979409874222?lang=es 
 https://www.tiktok.com/@jordi.koalitic/video/7106530718012017926 ç
@@ -38,9 +38,7 @@ https://www.tiktok.com/@jordi.koalitic/video/7106530718012017926 ç
 
 ![image](https://hackmd.io/_uploads/BJXZQm9oa.png)
 
-
-
-### Conductive Biomaterial/ 
+### Conductive Biomaterial
 
 https://youtu.be/-ldPPhnGDVE
 
