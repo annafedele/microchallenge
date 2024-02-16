@@ -40,31 +40,31 @@ https://www.tiktok.com/@jordi.koalitic/video/7106530718012017926 ç
 
 ## Fabrication process
 
-our fisrt main idea was to create a outfit, composed by a belt and a skin wearable that allow to collect data while the person who is wearing them is constantly reacting with the surroundings, ad then, translating then in a digial identity made of the data.
+Our fisrt main idea was to create a outfit, composed by a belt and a skin wearable that allow to collect data while the person who is wearing them is constantly reacting with the surroundings, ad then, translating then in a digial identity made of the data.
 we started cooking the conductive biomaterial for creating a touch sensor that works even with pressure
-Recipe: 
+Recipe: <br>
   **alginato de Sodio  + CMC Celulosa** <br>
   Agua 200ml <br>
   Alginato de sodio 8g <br>
   CMC Celulosa 12,5g <br>
   Glicerina 10g <br>
   Harina  100 g <br>
-  Carbon 
+  Carbon <br>
 After discussing together we realize that for the time we had and the tests we supposed to do with the biomaterial, we decided to dedicate ourselfs to the sensors, as the proximity.
 
 During the first review the professors suggested us to use cameras for recordigns video of the surroundings and have a sort of 360 view (as the cars have in their assets) related also to the topic of safety and protection we want  to address; so, we start investigating with the TTPO cameras.
 https://github.com/annafedele/microchallenge/assets/143884501/2e62ab73-343f-420e-96c8-4eee715032ec
+<br>
 
-
-we also tried to make a touch sensor with textiles and the **velostat**: 
+We also tried to make a touch sensor with textiles and the **velostat**: 
 *Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging*
--Pressure and bend sensor
--Resistance decreases across distance and changes under pressure. 
--<500 Ohms/cm
--Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.
+-Pressure and bend sensor <br>
+-Resistance decreases across distance and changes under pressure. <br>
+-<500 Ohms/cm v
+-Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging. <br>
 
 ## Fabrication files
-### code that we used:
+### *code that we used:*
 ```proximity sensor
 int TRIG = 2;
 int ECHO = 4;
@@ -172,10 +172,21 @@ delay(10);
 }
 ```
 
+
 # Learning outcomes
 ## Results
+At the end of the challenge, the difficulties we encountered were not few, because when it comes to investigating and improvising with technology, a lot of testing is required, and especially when you are a novice, it is complicated to make things work in a reasonable time.
+<br>
+The results we achieved are very good in terms of investigation and discovery of new software for us: we achieved results by connecting the respective sensors to touch trainers to create the visuals we wanted, but we did not achieve the goal of creating an outfit because we spent a lot of time and energy trying to make the technological parts of our project work, which corresponded to at least 80% of the parts.
+<br>
 ## Reflection
+The challenge for us was to investigate and make many attempts to achieve the result we had envisaged from the beginning.
+It was incredibly useful and satisfying to try some of the practices that we had not experimented with so thoroughly, to understand them and then solve the mistakes, and it led to a growth in our skills but also in our awareness of what can and cannot be done within the given timeframe.
+<br>
 ## Future outcomes
+In the future, we would like to continue working on creating a complete outfit that can visualise data in real time and use it in certain social situations to understand how the visualisation of the data transforms and deforms the visuals we create, but also in terms of safety and it is interesting to understand how the surroundings relate to the person (and thus the body) and whether situations of violence or abuse can occur.
+
+Translated with DeepL.com (free version)
 ## What we could improve
 
 
