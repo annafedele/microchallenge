@@ -1,19 +1,26 @@
 # microchallenge_I
 this project was developed with annna
 
-# MicroChallenge 
+# MicroChallenge: detecting the surroundings 
 
+## Areas of interests:
+
+![Screenshot 2024-02-16 012247](https://github.com/annafedele/microchallenge/assets/147055673/076530db-5d08-4d14-9ed0-afd52bb2289e)
+## Research
 
 https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed
 ### Statement:
 
-Ways to detect the sorrounding. 
+Ways to detect the surroundings. 
 
 
 # Artifact Description:
 
+## Project planning
+## Sketches
 
 
+## Materials and technologies needed
 ## Sensors:
 - **Touch Sensor:**
 We want to investigate about conductive textile 
@@ -60,6 +67,8 @@ Its operation consists of emitting an ultrasonic sound from one of its transduce
 ### Buzzer/ Speaker: 
 ![image](https://hackmd.io/_uploads/S1svcm5i6.png)
 
+# Fabrication process
+## Touch sensor/ultrasonic sensor
 
 ## Visualization: 
 
@@ -84,6 +93,13 @@ Always be connected to the TTGO camera wifi
 http://2.2.2.1:81/stream 
 
 https://gist.github.com/mbernson/4d7768b4fda6403b9220f38c069069b0 
+
+# Learning outcomes
+## Results
+## Reflectiion
+## Future outcomes
+## What we could improve
+
 
 ## References + Resources: 
 https://www.does-work.com/projects/mira-does-unnoticed-identities Does Work Studio-  Unnotices Identities Project. 
