@@ -43,12 +43,12 @@ https://www.tiktok.com/@jordi.koalitic/video/7106530718012017926 ç
 our fisrt main idea was to create a outfit, composed by a belt and a skin wearable that allow to collect data while the person who is wearing them is constantly reacting with the surroundings, ad then, translating then in a digial identity made of the data.
 we started cooking the conductive biomaterial for creating a touch sensor that works even with pressure
 Recipe: 
-  **alginato de Sodio  + CMC Celulosa**
-  Agua 200ml 
-  Alginato de sodio 8g 
-  CMC Celulosa 12,5g 
-  Glicerina 10g 
-  Harina  100 g 
+  **alginato de Sodio  + CMC Celulosa** <br>
+  Agua 200ml <br>
+  Alginato de sodio 8g <br>
+  CMC Celulosa 12,5g <br>
+  Glicerina 10g <br>
+  Harina  100 g <br>
   Carbon 
 After discussing together we realize that for the time we had and the tests we supposed to do with the biomaterial, we decided to dedicate ourselfs to the sensors, as the proximity.
 
